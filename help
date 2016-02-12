@@ -1,0 +1,42 @@
+    name of command [type of argument](explenation)
+Commands:
+    (blank command(enter) for next iteration)
+    
+    q (quits the game)
+
+    random [int](possibility of cell alive is 1/1+number)
+            ex. random 4
+
+    create pattern [string](name used to reference(ex. insert)) 
+                   [string](only string or file, type of input) 
+                   [char](color, optional, if ommited, set to default)      
+                        when chose string:
+                            type lines(use only ".", "#" and "\n"(enter))
+                            finish typing "b"
+                            ex. create pattern glider string R
+                                .##
+                                #.#
+                                ..#
+                                b
+                        when chose file:
+                            type name of file
+                            ex: create pattern glider file R
+                            File name: glider
+
+    insert [string](name of pattern(see create pattern))
+           [int](x position, optional <56 - width of pattern)
+           [int](y position, optional <56 - heigth of pattern)
+           when x and y where skiped position is set at random
+           ex. insert glider 5 3
+               insert glider 
+
+    default color [char](new default color)
+        ex. default color R
+
+    help (see help)
+
+    settings (shows list of intresting settings with descripton)
+
+    change setting [string](new setting)
+        ex. change setting 23/3
+            change setting /2

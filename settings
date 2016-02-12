@@ -1,0 +1,39 @@
+/2  Seeds (nasiona) Wzrost intensywny, chaotyczny
+/234    Serwety Przypomina koronki, serwety
+012345678/1     Wolfram – 7(e)
+012345678/3 Płatki, Życie bez śmierci   Wzory przypominają drabiny. [3]
+012345678/378       Wolfram – 9(a)
+01356/13456     Wolfram – 7(d)
+018/018     Wolfram
+0238/123567     Wolfram – 13(f); klasa 3
+03456/34        Wolfram – 7(g)
+045/0578        Wolfram – 7(i)
+0468/236        Wolfram – 7(a), 13(g); klasa 3
+1/1 Narośl  Opracowany przez Kellie Evans; tworzy interesujące formy, startuje nawet od pojedynczej komórki.
+12345/3 Labirynt    Tworzy wzory przypominające labirynty.
+12456/0578      Wolfram – 7(h)
+125/36  2x2 Ma dużo oscylatorów i statków
+135/135     Wolfram – 13(h); klasa 3
+1357/1357   Replikator  Automat replikujący Edwarda Fredkina,
+każda struktura jest z czasem zastępowana przez jej kilka kopii
+1358/357    Ameba   Dobrze zbalansowana między życiem a śmiercią, ma statki
+23/3    Gra w życia Conwaya Bardzo złożone zachowania (odkryte kilkadziesiąt tysięcy sensownych struktur)
+23/36   HighLife    Podobne do Gry w życie
+(część jej struktur działa w HighLife), w dodatku struktura samoreplikująca
+234/3       Wolfram – 9(b), 13(b); klasa 2. ma statki
+2345/45678  Miasta otoczone murem   Tworzy aktywne centra otoczone statycznymi ścianami
+2346/367        Wolfram – 9(c). ma statki
+235678/3678 Plamy   Struktury szybko się stabilizują, o dziwo znacznie różni się od poprzedniej reguły
+235678/378  Koagulacje  Wzory rozszerzają się, w przeciwieństwie do plam
+238/357 Pseudożycie Ewolucja przypomina 23/3, ale mało który wzór z gry w życie działa pod tymi regułami
+245/368 Ruch    Losowe struktury zwykle się stabilizują, ale wiele statków występuje naturalnie i często się pojawia. Najczęściej pojawiają się struktury stabilne, okresowe z okresem 2 lub 4, statek o okresie 7 i "dymiący pociąg" o okresie 170.
+27/257      Wolfram – 7(b); ma statki
+34/34   Trzy Cztery Początkowo sądzono, że ma ona tendencje do stabilizacji, ale dzięki symulacji komputerowej okazało się, że większe wzory eksplodują. Dużo małych oscylatorów i statki.
+34678/3678  Dzień i Noc Dużo wzorów o złożonym zachowaniu. Wzory można odwracać – uczynić wszystkie żywe komórki martwymi i na odwrót, a będzie on działał identycznie.
+4567/345    Asymilacja  Tworzy statystyczne struktury przypominające diament, wnętrza kryształów częściowo wypełnione
+45678/137       Wolfram – 7(f)
+45678/3 Koral   Wzory rosną powoli, tworzą struktury przypominające rafę koralową.
+5/345   Długie życie    Reguła opracowana przez Andrew Trevorrowa, bardzo łatwo można spotkać oscylatory o długim okresie.
+5678/35678  Diameba Tworzy wielkie zwarte struktury z chaotycznie
+oscylującymi granicami. Zajmował się nią Dean Hickerson, który też
+znalazł wzory, których przyrost jest kwadratowyself.
